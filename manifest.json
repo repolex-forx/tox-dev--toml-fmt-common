@@ -1,0 +1,33 @@
+{
+  "manifest_version": "1.0",
+  "org": "tox-dev",
+  "repo": "toml-fmt-common",
+  "versions": [
+    {
+      "commit": "9647ac4da337e4b61ef728d252550a78faa19f7e",
+      "parsed_at": "2026-10-11T19:32:25.161515+00:00",
+      "filetree": "filetree/9647ac4da337e4b61ef728d252550a78faa19f7e.nq.gz",
+      "blobs": [
+        "blob/5968e5bcc55e7d0e43554bfb3203512e1e1fe0d0.nq.gz",
+        "blob/364982344fbd94d55705e1f27a9a87abaa255333.nq.gz",
+        "blob/61676ceac719d5d49424d27b1256ea589d92282b.nq.gz",
+        "blob/f140f8a8fe7761b2afb6d06d04e960392fb35124.nq.gz",
+        "blob/2c28b78daf72ba2f923e3773b2c16284f76115a6.nq.gz",
+        "blob/aea841e9da29c023a7c7537f392635a2adfc32b6.nq.gz",
+        "blob/d47e4ccb5e16958a465a01ad2083d35bc865caf4.nq.gz",
+        "blob/482e736a96a997f27ab6d5256302e60a661bc6fe.nq.gz",
+        "blob/123014908bebbfb7ecfa1d15daaceb272fabe05b.nq.gz",
+        "blob/5f89818f9e63c2f6829c7706c57f223cdb5bbd38.nq.gz",
+        "blob/123ae508041b6ade5aea32d69a5577c9d511742a.nq.gz",
+        "blob/f468e545d7edcfd8439d7dedfba65f58cef29082.nq.gz",
+        "blob/45f0ed7afccd6addc22cef1b1462bf19fa449a93.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/2741f130d6266272594c327520e431f7725de0f7.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
